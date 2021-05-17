@@ -19,14 +19,14 @@ $(document).ready(function () {
 
   //typing animation script
   var typed = new Typed (".typing", {
-    strings: ["Industrial Engineering", "Industrial Engineering", "Industrial Engineering"],
+    strings: ["Industrial Engineering", "Business Analyst", "ERP Implementator"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
   });
 
   var typed = new Typed (".typing-2", {
-    strings: ["Industrial Engineering", "Industrial Engineering", "Industrial Engineering"],
+    strings: ["Industrial Engineering", "Business Analyst", "ERP Implementator"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
